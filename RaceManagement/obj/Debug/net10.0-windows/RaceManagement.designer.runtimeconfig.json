@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net10.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\adikr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adikr\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
