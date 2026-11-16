@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "RaceControl.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/RaceControl.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RaceControl.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RaceControl.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../RaceControl.Infrastructure/RaceControl.Infrastructure.csproj",
+      "msbuildProject": "../RaceControl.Infrastructure/RaceControl.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "RaceControl.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\adikr\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\adikr\\OneDrive\\Dokument\\Dev\\Projects\\RaceManagement\\RaceControl.Infrastructure\\RaceControl.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\adikr\\OneDrive\\Dokument\\Dev\\Projects\\RaceManagement\\RaceControl.Infrastructure\\RaceControl.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6NF2nfnGMVI7AXxFCYQgJcmn4A/C2gWcvC2x9yKTwcFApOSscyZH0EFYSp4G1jhdRbnzzMgOAxYqRvtZbhpaVA==",
+  "dgSpecHash": "y46QE9ZJCCg=",
   "success": true,
   "projectFilePath": "C:\\Users\\adikr\\OneDrive\\Dokument\\Dev\\Projects\\RaceManagement\\RaceControl.Application\\RaceControl.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\adikr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,13 @@
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\bin\Debug\net10.0\RaceControl.Application.deps.json
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\bin\Debug\net10.0\RaceControl.Application.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\bin\Debug\net10.0\RaceControl.Application.pdb
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.csproj.AssemblyReference.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.AssemblyInfoInputs.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.AssemblyInfo.cs
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.sourcelink.json
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\refint\RaceControl.Application.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\RaceControl.Application.pdb
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Application\obj\Debug\net10.0\ref\RaceControl.Application.dll

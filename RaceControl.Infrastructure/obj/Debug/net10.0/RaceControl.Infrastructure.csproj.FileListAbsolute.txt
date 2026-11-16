@@ -1,0 +1,13 @@
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\bin\Debug\net10.0\RaceControl.Infrastructure.deps.json
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\bin\Debug\net10.0\RaceControl.Infrastructure.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\bin\Debug\net10.0\RaceControl.Infrastructure.pdb
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.AssemblyInfo.cs
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.sourcelink.json
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\refint\RaceControl.Infrastructure.dll
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\RaceControl.Infrastructure.pdb
+C:\Users\adikr\OneDrive\Dokument\Dev\Projects\RaceManagement\RaceControl.Infrastructure\obj\Debug\net10.0\ref\RaceControl.Infrastructure.dll
